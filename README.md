@@ -1,5 +1,7 @@
 # 🎓 Student Placement Predictor
 
+## 🌐 Live Demo
+👉 [Click here to try the app](https://student-placement-predictor-kl6au4vx7drdpsjowappue3.streamlit.app/)
 Predict karo ki student placed hoga ya nahi!
 
 ##  Model Performance
